@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi! I'm Samyak, a passionate full-stack developer and cybersecurity student. With over 3 years of experience in app and web development, I specialize in Flutter, Java, Laravel, and MERN stack. I'm currently building innovative platforms like PubFlow and MeroLearning, and I love combining technology with creativity to solve real-world problems.<br><br>🚀 Always learning. Always building.<br>
 
